@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122621389",
+    "project_id": "fir-workshop-f7d03",
+    "storage_bucket": "fir-workshop-f7d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122621389:android:197a45ab6c02470ea68884",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122621389-s6r8a6vcrq5pkmvihl3qj6f6rmpkumm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtY-oVfqqQPYvnJt913n96A82oQI2SPaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122621389-s6r8a6vcrq5pkmvihl3qj6f6rmpkumm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
